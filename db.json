@@ -1,0 +1,11 @@
+{
+  "contas": [
+    {
+      "nick": "conta teste",
+      "senha": "senha",
+      "auth": "auth",
+      "conn": "conn",
+      "id": 1
+    }
+  ]
+}

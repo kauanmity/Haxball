@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "puppeteer": "^20.1.0"
+  }
+}
